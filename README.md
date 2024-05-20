@@ -9,3 +9,6 @@ I haven't done much with my esolang Trampoles, so why not dedicate an entire mon
 
 # (SOON) AoC 2024
 planning to do a random esolang each day
+
+---
+oh wow what a surprise!  I didn't do it! wow!
